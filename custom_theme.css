@@ -1,0 +1,54 @@
+/* ✅ Custom Theme Style by (JEEVIKAKUMARAN) */
+
+body {
+    background: #e3f2fd; /* Light Blue Background */
+    font-family: Arial, sans-serif;
+}
+
+.ui-page {
+    background-color: #d0e7ff !important;
+}
+
+/* Header Design */
+.ui-header {
+    background-color: #6d03ee !important;
+    color: white !important;
+}
+
+/* Footer Design */
+.ui-footer {
+    background-color: #0d47a1 !important;
+    color: white !important;
+}
+
+/* Buttons Style */
+.ui-btn {
+    background-color: #1565c0 !important;
+    color: #ffffff !important;
+    border-radius: 0 !important; /* No curve */
+    border: none !important;
+    padding: 12px !important;
+    font-weight: bold;
+}
+
+}
+
+/* Page Titles */
+h1, h2, h3 {
+    color: #003d66;
+    font-weight: bold;
+}
+
+/* Listview (if used) */
+.ui-li-divider {
+    background-color: #64b5f6 !important;
+    color: #003d66 !important;
+}
+
+/* Make content card style */
+.content-box {
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
